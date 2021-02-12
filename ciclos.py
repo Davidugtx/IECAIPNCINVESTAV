@@ -16,7 +16,7 @@ contador = 0
 
 
 for i in range(1, 10, 2):
-    print(f'Numero:{i + 1}')
+    print(f'Numero: {i + 1}')
 
     if i == 5:
         break
