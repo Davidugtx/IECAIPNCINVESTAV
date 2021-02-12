@@ -15,7 +15,6 @@ contador = 0
 #         continuar = False
 
 
-
 for i in range(1, 10, 2):
     print(f'Numero:{i + 1}')
 
