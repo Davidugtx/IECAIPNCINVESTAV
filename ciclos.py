@@ -1,6 +1,6 @@
 
 continuar = True
-contador =0
+contador = 0
 
 # while continuar:
 #     contador +=1
@@ -15,8 +15,9 @@ contador =0
 #         continuar = False
 
 
+
 for i in range(1, 10, 2):
-    print(f'Numero:{i+1:05.2f}')
+    print(f'Numero:{i + 1}')
 
     if i == 5:
         break
