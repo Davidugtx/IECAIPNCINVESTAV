@@ -10,7 +10,7 @@ seleccion =3
 #print(opciones[seleccion - 1])
 
 
-seleccion_pc = opciones[numero -1]
+seleccion_pc = opciones[-3]
 
 print(seleccion_pc)
 
