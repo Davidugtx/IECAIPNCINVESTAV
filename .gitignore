@@ -2,4 +2,5 @@ venv
 .idea
 .gitattributes
 *.pyc
+__pycache__/
 
