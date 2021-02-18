@@ -12,5 +12,5 @@ print(f'l1 == l2? {l1 == l2}')
 print(f'l1 == l3? {l1 == l3}')
 
 
-print(f'l1 is l2? {l1 is l2}')
+print(f'l1 is l2? {l1 is l2}')    #Pregunta si se refiere al mismo objeto pregunta su id
 print(f'l1 is l3? {l1 is l3}')
