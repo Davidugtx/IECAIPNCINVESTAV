@@ -25,6 +25,8 @@ def main():
     texto4 = input()
     print(f'CURP ingresado:  {texto4}')
     r4 = curp(texto4)
-    print(r2)
+    # print(r2)
+    print(r4)
+
 if __name__ == '__main__':
     main()
