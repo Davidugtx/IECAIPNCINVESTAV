@@ -74,7 +74,7 @@ def leer():
     unpickler = pickle.Unpickler(file)
     read_alumno=unpickler.load()
     print(read_alumno)
-    print(f' e:\n {e}')
+    #print(f' e:\n {e}')
     print('Alumnos mostrados')
 
 def actualizar():
